@@ -4,4 +4,4 @@
 ?>
 <Response>
 	<Say>Hello this is Tech Force Holdings, we'll be online soon!</Say>
-</Respondse>
+</Response>
